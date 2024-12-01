@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "E:/Class_Materials/Previous_sem/3-2/Software Project II/mosquitt-file-server"
+		},
+		{
+			"name": "Home_automation",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
